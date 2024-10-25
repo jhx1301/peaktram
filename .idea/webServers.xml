@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bd093b49-342e-418d-bd9f-bbe9047e24d1" name="PEAKTRAM">
+        <fileTransfer accessType="SFTP" host="36.103.234.59" port="22" sshConfigId="b00850b8-cf10-44c9-a01e-0d9ecce3e3d8" sshConfig="ubuntu@36.103.234.59:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
